@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class S22 {
+public class sec_lar_num {
 	static Scanner sc=new Scanner(System.in);
 	
 	
