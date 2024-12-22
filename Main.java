@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 class Main 
 {
     public static int solve (int r, int unit, int arr[], int n) 
@@ -31,5 +31,6 @@ class Main
         for (int i = 0; i < n; i++)
             arr[i] = sc.nextInt ();
         System.out.println (solve (r, unit, arr, n));
+        sc.close();
     } 
 }

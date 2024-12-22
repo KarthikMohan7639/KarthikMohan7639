@@ -1,3 +1,4 @@
+package PatternProgramming;
 import java.util.Scanner;
 
 public class S19PP {
