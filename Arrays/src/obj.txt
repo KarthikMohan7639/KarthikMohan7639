@@ -1,0 +1,14 @@
+Java is object oriented programming language having the 11 non static methods with body
+---------------------------------------------------------------------------------------
+
+1.Public String toString()
+2.Public Boolean equals(object o)
+3.Public int hashcode()
+4.protected object clone() throws CloneNotSupportedException
+5.protected void finalize()
+6.final public void wait() throws InterruptedException
+7.final public void  wait(long l) throws InterruptedException
+8.final public void wait(long l,int i) throws InterruptedException
+9.final public void notify() throws InterruptedException
+10.final public void notifyAll() throws InterruptedException
+11.final public void getClass()
