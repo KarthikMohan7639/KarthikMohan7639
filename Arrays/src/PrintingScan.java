@@ -1,7 +1,7 @@
 public class PrintingScan extends Object{
     // static Scanner sc=new Scanner(System.in);
     public static void main(String[] args){
-        String name="Hello, World!, 123";
+        String name="Hello, World! 123";
         StringRev(name);
                     }
         
