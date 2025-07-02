@@ -1,0 +1,26 @@
+# Dependencies
+react-product-listing/node_modules/
+react-product-listing/npm-debug.log*
+react-product-listing/yarn-debug.log*
+react-product-listing/yarn-error.log*
+
+# Production builds
+react-product-listing/dist/
+react-product-listing/build/
+
+# Development
+react-product-listing/.vite/
+
+# Environment variables
+react-product-listing/.env.local
+react-product-listing/.env.development.local
+react-product-listing/.env.test.local
+react-product-listing/.env.production.local
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
