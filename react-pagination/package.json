@@ -1,0 +1,31 @@
+{
+  "name": "react-pagination-component",
+  "version": "1.0.0",
+  "description": "React TypeScript pagination component with error handling",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "eslint . --ext .ts,.tsx"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.0.0"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "pagination",
+    "component"
+  ],
+  "author": "KarthikMohan7639",
+  "license": "MIT"
+}
